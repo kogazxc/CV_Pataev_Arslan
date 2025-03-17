@@ -12,7 +12,7 @@
 ### **Результат:**  
 Создана **база данных**, позволяющая **автоматизировать процесс продажи билетов, анализировать спрос и управлять загрузкой рейсов**.  
 Использованы **SQL (PostgreSQL/MS SQL Server), Python (Pandas), Excel**.  
-
+- [Проект](https://github.com/kogazxc/CV_Pataev_Arslan/blob/main/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
 ---  
 
 ## Сбор данных с API и веб-скрейпинг для анализа игровой индустрии  
@@ -28,6 +28,7 @@
 ### **Результат:**  
 Определены **факторы, влияющие на успешность игр на PC**, даны **рекомендации по выбору жанра и механик** для новых проектов.  
 Использованы **Python (Requests, BeautifulSoup, Selenium, Pandas, Matplotlib, Seaborn), API-запросы**.  
+- [Проект](https://github.com/kogazxc/CV_Pataev_Arslan/blob/main/Scraping_%26_API.ipynb)
 - [Презентация](https://github.com/kogazxc/CV_Pataev_Arslan/blob/main/Scraping%2BAPI.pdf) 
 ---  
 
@@ -44,3 +45,4 @@
 ### **Результат:**  
 Определены **ключевые факторы популярности контента**, что может быть полезно для **стратегического планирования Netflix**.  
 Использованы **Python (Pandas, Matplotlib, Seaborn)**.  
+- [Проект](https://github.com/kogazxc/CV_Pataev_Arslan/blob/main/EDA_Netflix.ipynb)
